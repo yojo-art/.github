@@ -22,7 +22,7 @@
 - ~~へんたいふしんしゃさん~~
 
 ## ぺん
-![@penginn-0](./assets/icons/2024-01-23%2018-52-45%201.png.webp)  
+![@penginn-0](/assets/icons/2024-01-23%2018-52-45%201.png.webp)  
 常にえっちなことを考えてるペンギン。
 幼女.artの管理者兼インフラ担当。
 #### 担当
@@ -32,7 +32,7 @@
 - メインロリコントリビューター
 
 ## 狐桜
-![@kozakura913](./assets/icons/kozakura2.png.webp)  
+![@kozakura913](/assets/icons/kozakura2.png.webp)  
 某サークルのインフラ担当兼エンジニア。
 原神しながらJavaやRustを書いている。
 #### 担当
@@ -41,7 +41,7 @@
 - モデレーター
 
 ## Kur0den
-![@kuroden0010](./assets/icons/kuroden.web.webp)  
+![@kuroden0010](/assets/icons/kuroden.web.webp)  
 幼女.artの幼女担当。かわいいね。  
 アイスおごってあげる。  
 #### 担当
