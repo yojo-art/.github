@@ -2,9 +2,9 @@
 幼女.art運営チームです。
 |名前|アイコン|説明|担当|
 | ---- | ---- | ---- | ---- |
-|夏見かおる|<img src="https://github.com/yojo-art/cherrypick/assets/121443048/87a2d9ba-2b99-46a9-bf52-73cb7521b3ec" width="256">  |某個人情報の透明性を特徴としたサーバーに住むカラオケ好きの~~おねえちゃん~~絵描きさん。</br>幼女.Artに含まれる数少ないArtの部分。|Art</br>ロリコントリビューター</br>幼女語</br>~~へんたいふしんしゃさん~~|
 |ぺん|<img src="/assets/icons/2024-01-23%2018-52-45%201.png.webp" width="256">|常にえっちなことを考えてるペンギン。</br>幼女.artの管理者兼インフラ担当。|プロジェクトリーダー(←！？)</br>インスタンス管理者</br>サーバーインフラ担当</br>メインロリコントリビューター|
 |狐桜|<img src="/assets/icons/kozakura2.png.webp" width="256">  |某サークルのインフラ担当兼エンジニア。</br>原神しながらJavaやRustを書いている。|オブジェクトストレージ(ドライブ)提供</br>暴走した管理人を抑える役</br>モデレーター|
-|Kur0den|<img src="/assets/icons/kuroden.web.webp" width="256">|幼女.artの幼女担当。かわいいね。</br>アイスおごってあげる。  |モデレーション</br>幼女</br>メンタルケア(主に開発者の)</br>アイドル|
+|夏見かおる|<img src="https://github.com/yojo-art/cherrypick/assets/121443048/87a2d9ba-2b99-46a9-bf52-73cb7521b3ec" width="256">  |某個人情報の透明性を特徴としたサーバーに住むカラオケ好きの~~おねえちゃん~~絵描きさん。</br>幼女.Artに含まれる数少ないArtの部分。|Art</br>ロリコントリビューター</br>幼女語</br>~~へんたいふしんしゃさん~~|
+|Kur0den|<img src="/assets/icons/kuroden.web.webp" width="256">|幼女.artの幼女担当。かわいいね。</br>ドーナツおごってあげる。  |モデレーション</br>幼女</br>メンタルケア(主に開発者の)</br>アイドル|
 
 文責: ぺん
